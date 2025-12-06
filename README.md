@@ -17,6 +17,9 @@ ThinkRook-Website is the public repository for the ThinkRook website landing pag
 - HTML
 - CSS
 - JavaScript
+- Perl
+- Python
+- PHP
 
 ## Contributing
 
